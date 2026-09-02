@@ -1,8 +1,7 @@
 # Lab Report: Access Control & Network Security
 
 **Course:** IKB42603 Cloud Computing Security Essentials  
-**Student:** Eikmal  
-**Date:** September 2, 2026  
+**Student:** Eikmal   
 **Lecturer:** Madam Adani 
 
 ---
